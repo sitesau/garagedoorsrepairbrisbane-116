@@ -1,0 +1,22 @@
+{
+  "wheel_id": 762,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-116",
+  "project": "roller-door-repairs-brisbane-checklist-3d38a1d900472c22ac682134",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-157",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "roller door repairs brisbane checklist",
+  "intended_url": "https://aumedia.neocities.org/roller-door-repairs-brisbane-checklist-3d38a1d900472c22ac682134/",
+  "tier": "T2",
+  "writeback_nonce": "495d9a0446a3abf7",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/garagedoorsrepairbrisbane-157/",
+      "anchor": "Roller Door Repairs Brisbane: Brisbane Costs and Faults",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
